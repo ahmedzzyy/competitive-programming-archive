@@ -1,6 +1,17 @@
 # Prerequisites
 *.d
 
+# VS Code settings
+.vscode/*
+!.vscode/tasks.json
+!.vscode/cp-main.code-snippets
+*.code-workspace
+
+# Input / Output files
+input.txt
+error.txt
+output.txt
+
 # Compiled Object files
 *.slo
 *.lo
